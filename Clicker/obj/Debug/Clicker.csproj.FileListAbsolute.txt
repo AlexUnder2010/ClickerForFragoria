@@ -1,0 +1,9 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\bin\Debug\Clicker.exe.config
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\bin\Debug\Clicker.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\bin\Debug\Clicker.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.Cache
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\Alexandr\documents\visual studio 2013\Projects\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
